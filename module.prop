@@ -1,0 +1,6 @@
+id=RMA
+name=RMA (Ram Mode AI)
+version=v1.0.2
+versionCode=102
+author=@Zyarexx
+description=Ram Mode AI | Clean Ram after every 10min if usage is above 70%
