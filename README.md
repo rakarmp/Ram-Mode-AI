@@ -9,7 +9,7 @@ Clean Ram after every 10min if usage is above 70%
 
 - Automatic Clean Ram
 - Log In /RMA/Ram-Mode-AI.log
-- Log In /RMA/AITime.log
+- Change Minute For Automatic Clean In /RMA/AITime.txt
 
 ### Installation
 
