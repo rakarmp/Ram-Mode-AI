@@ -49,7 +49,7 @@ while true; do
 battery_level=$(dumpsys battery | grep level | awk '{print $2}')
 threshold=1024
 	if [ "$ram_usage" -ge 70 ] && [ "$battery_level" -gt 20 ]; then
-		TIME=$(cat /storage/emulated/0/#NL/NL-RAMboostAI/AITime.txt)
+		TIME=$(cat /storage/emulated/0/RMA/AITime.txt)
 		nolimits1 ""
 		sync
 		nolimits1 " 𝓒𝓵𝓮𝓪𝓷𝓲𝓷𝓰 𝓒𝓪𝓬𝓱𝓮 "
