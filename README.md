@@ -1,7 +1,6 @@
 <img src="rma.png" alt="Ram Mode AI"/>
 
 <br />
-## RMA (Ram Mode AI)
 
 Clean Ram after every 10min if usage is above 70%
 
